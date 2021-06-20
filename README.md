@@ -6,6 +6,8 @@ connect AWS IoT EduKit core2 to PC USB, find the com port number with DEVICE man
 Mine is COM5, you may have other difference, change COM5 to whatever that match yours.  
 
 
+the test clip,  
+https://youtu.be/3nAwNWibKuM 
 
 
 the batch file,  
