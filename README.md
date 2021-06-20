@@ -4,7 +4,7 @@ batch file for windows, before doing this, install Arduino IDE &amp; esp32core t
 connect AWS IoT EduKit core2 to PC USB, find the com port number with DEVICE manager, WIN10 will install the driver of CP210x automatically.  
 
 Mine is COM5, you may have other difference, change COM5 to whatever that match yours.  
-![com5_cp210x.JPG](com5_cp210x.JPG)  
+![com5_cp210x_1.JPG](com5_cp210x_1.JPG)  
 
 
 
