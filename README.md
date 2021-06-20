@@ -1,22 +1,17 @@
 # ESP32_AWS_IoT_EduKit_quick_test
- batch file for windows, before doing this, install Arduino IDE &amp; esp32core to get the esptool.exe ready in your PC.   
+batch file for windows, before doing this, install Arduino IDE &amp; esp32core to get the esptool.exe ready in your PC.   
 
+connect AWS IoT EduKit core2 to PC USB, find the com port number with DEVICE manager, WIN10 will install the driver of CP210x automatically.  
+
+Mine is COM5, you may have other difference, change COM5 to whatever that match yours.  
+
+
+
+
+the batch file,  
 
 
 ```
-batch file for windows, before doing this, install Arduino IDE & esp32core to get the esptool.exe ready in your PC.
-
-connect AWS IoT EduKit core2 to PC USB, find the com port number with DEVICE manager, WIN10 will install the driver of CP210x automatically.
-
-Mine is COM5, you may have other difference, change COM5 to whatever that match yours.
-
-
-
-
-the batch file,
-
-
-
 :: To erase esp32 completely, do not rely on Arduino IDE and code upload, it has cluster and odd thing when uses FATFS, 
 :: unless format SPIFFS or FATFS everytime on the fly
 :: xiaolaba, 2020-MAR-02
