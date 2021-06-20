@@ -1,5 +1,5 @@
 # ESP32_AWS_IoT_EduKit_quick_test
-batch file for windows, before doing this, install Arduino IDE &amp; esp32core to get the esptool.exe ready in your PC.   
+batch file for windows, before doing this, install Arduino IDE &amp; esp32core to get the esptool.exe ready in your PC. or just uses this local copy here, [esptool.exe](esptool.exe).    
 
 connect AWS IoT EduKit core2 to PC USB, find the com port number with DEVICE manager, WIN10 will install the driver of CP210x automatically.  
 
@@ -87,12 +87,14 @@ it is simply the cross reference to each except a few of minor difference. see t
 
 ![core2_differences.jpg](core2_differences.jpg)  
 
-AWS kit has no schematic provided so far, but core2 kit has opened the schematic is avaialble, see this https://docs.m5stack.com/en/core/core2,  
+AWS kit has no schematic provided so far, but core2 kit has opened the schematic is avaialble,  
+see this https://docs.m5stack.com/en/core/core2,  
 it is reasonable assumption to see the design and cirtuit almost 99% identical and could be good reference and starting point.  
-
-this is ESP32 data sheet, https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf  
-
-local copy ![esp32_datasheet_en_ver3.6.pdf](esp32_datasheet_en_ver3.6.pdf)  
 local copy ![CORE2_V1.0_SCH.pdf](CORE2_V1.0_SCH.pdf)  
-local copy ![CORE2_EXT_Board.pdf](CORE2_EXT_Board.pdf)    
+local copy ![CORE2_EXT_Board.pdf](CORE2_EXT_Board.pdf)  
+  
+this is ESP32 data sheet, https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf  
+  
+local copy ![esp32_datasheet_en_ver3.6.pdf](esp32_datasheet_en_ver3.6.pdf)  
+    
 
