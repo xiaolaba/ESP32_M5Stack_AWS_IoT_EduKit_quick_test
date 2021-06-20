@@ -87,7 +87,7 @@ it is simply the cross reference to each except a few of minor difference. see t
 
 ![core2_differences.jpg](core2_differences.jpg)  
 
-AWS kit has no schematic provided so far, but core2 kit has opened the schematic is avaialble, see this https://docs.m5stack.com/en/core/core2
+AWS kit has no schematic provided so far, but core2 kit has opened the schematic is avaialble, see this https://docs.m5stack.com/en/core/core2,  
 it is reasonable assumption to see the design and cirtuit almost 99% identical and could be good reference and starting point.  
 
 this is ESP32 data sheet, https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf  
