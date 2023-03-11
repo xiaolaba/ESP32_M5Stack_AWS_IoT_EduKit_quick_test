@@ -12,5 +12,8 @@ CH9102 USB-Serial chip
 
 
 ### schematic
+[tough_sch_01.pdf](tough_sch_01.pdf)
+[tough_sch_02.pdf](tough_sch_02.pdf)
+
 
 
