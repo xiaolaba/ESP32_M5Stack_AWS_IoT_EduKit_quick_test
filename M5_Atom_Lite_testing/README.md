@@ -15,5 +15,5 @@ https://github.com/m5stack/M5Atom/tree/master/examples/ATOM_BASE/ATOM_QRCode/UAR
 
 ### circuit
 
-![atom_lite_sch_01_schematic](atom_lite_sch_01_schematic) 
+![atom_lite_sch_01_schematic.pdf](atom_lite_sch_01_schematic.pdf) 
 
