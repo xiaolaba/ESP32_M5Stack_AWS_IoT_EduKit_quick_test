@@ -1,8 +1,18 @@
 ### M5Stack Tough esp32 core2 / esp32 generic compatible
 
-
+testing procedure,  
 ![test_procedure.jpg](test_procedure.jpg)  
 
+### source code
+[M5stack_Tough_TFcard_test.ino](M5stack_Tough_TFcard_test.ino)
+
+### firmware ready and brun tools
+[M5stack_Tough_TFcard_test_esp32_merged-flash.bin](M5stack_Tough_TFcard_test_esp32_merged-flash.bin) 
+[burn_merged-flash.bat](burn_merged-flash.bat)  
+[esptool_4.2.1.exe](esptool_4.2.1.exe)  
+
+
+### notes
 SD card slot, SD.h and SPI mode
 ```
 SD.begin(GPIO4) or 
