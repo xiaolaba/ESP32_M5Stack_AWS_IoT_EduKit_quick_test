@@ -1,5 +1,8 @@
 ### M5Stack Tough esp32 core2 / esp32 generic compatible
 
+
+![test_procedure.jpg](test_procedure.jpg)  
+
 SD card slot, SD.h and SPI mode
 ```
 SD.begin(GPIO4) or 
